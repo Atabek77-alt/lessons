@@ -1,0 +1,49 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# numbers =(10,20,30)
+# average = sum(numbers)/len(numbers)
+# print(average)
+
+# tuple1 = (1,2,3)
+# tuple2 = (4,5,6)
+# result = tuple1+tuple2
+# print(result)
+
+# tup = (10,20,30,40)
+# tup = (tup[3],tup[1],tup[2],tup[0])
+# print(tup)
+
+# list1 = [10,20,30,40]
+# list2 = [10,20]
+# elements = tuple(set(list1)-set(list2))
+# print(elements)
+
+# numbers = (0,1,2,3,4,5,6,7)
+# even_numbers = [num for num in numbers if num % 2 == 0]
+# print(even_numbers) 
+
+# set1 = {1,2,3,4}
+# set2 = {3,4,5,6}
+# result = set1 - set2
+# print(tuple(result))
+
+# set1 = {1,2,3,4}
+# set2 = {3,4,5,6}
+
+# print(set1 == set2)
